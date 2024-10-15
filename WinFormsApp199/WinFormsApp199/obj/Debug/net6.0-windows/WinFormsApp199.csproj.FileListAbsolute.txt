@@ -1,0 +1,33 @@
+C:\Users\Honor\source\repos\WinFormsApp199\WinFormsApp199\obj\Debug\net6.0-windows\WinFormsApp199.csproj.AssemblyReference.cache
+C:\Users\Honor\source\repos\WinFormsApp199\WinFormsApp199\obj\Debug\net6.0-windows\WinFormsApp199.Form1.resources
+C:\Users\Honor\source\repos\WinFormsApp199\WinFormsApp199\obj\Debug\net6.0-windows\WinFormsApp199.csproj.GenerateResource.cache
+C:\Users\Honor\source\repos\WinFormsApp199\WinFormsApp199\obj\Debug\net6.0-windows\WinFormsApp199.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\source\repos\WinFormsApp199\WinFormsApp199\obj\Debug\net6.0-windows\WinFormsApp199.AssemblyInfoInputs.cache
+C:\Users\Honor\source\repos\WinFormsApp199\WinFormsApp199\obj\Debug\net6.0-windows\WinFormsApp199.AssemblyInfo.cs
+C:\Users\Honor\source\repos\WinFormsApp199\WinFormsApp199\obj\Debug\net6.0-windows\WinFormsApp199.csproj.CoreCompileInputs.cache
+C:\Users\Honor\source\repos\WinFormsApp199\WinFormsApp199\bin\Debug\net6.0-windows\WinFormsApp199.exe
+C:\Users\Honor\source\repos\WinFormsApp199\WinFormsApp199\bin\Debug\net6.0-windows\WinFormsApp199.deps.json
+C:\Users\Honor\source\repos\WinFormsApp199\WinFormsApp199\bin\Debug\net6.0-windows\WinFormsApp199.runtimeconfig.json
+C:\Users\Honor\source\repos\WinFormsApp199\WinFormsApp199\bin\Debug\net6.0-windows\WinFormsApp199.dll
+C:\Users\Honor\source\repos\WinFormsApp199\WinFormsApp199\bin\Debug\net6.0-windows\WinFormsApp199.pdb
+C:\Users\Honor\source\repos\WinFormsApp199\WinFormsApp199\obj\Debug\net6.0-windows\WinFormsApp199.dll
+C:\Users\Honor\source\repos\WinFormsApp199\WinFormsApp199\obj\Debug\net6.0-windows\refint\WinFormsApp199.dll
+C:\Users\Honor\source\repos\WinFormsApp199\WinFormsApp199\obj\Debug\net6.0-windows\WinFormsApp199.pdb
+C:\Users\Honor\source\repos\WinFormsApp199\WinFormsApp199\obj\Debug\net6.0-windows\WinFormsApp199.genruntimeconfig.cache
+C:\Users\Honor\source\repos\WinFormsApp199\WinFormsApp199\obj\Debug\net6.0-windows\ref\WinFormsApp199.dll
+C:\Users\Дашка-кашка(-_-)\Desktop\практ\портфолио\Калькулятор многочленов\WinFormsApp199\WinFormsApp199\WinFormsApp199\bin\Debug\net6.0-windows\WinFormsApp199.exe
+C:\Users\Дашка-кашка(-_-)\Desktop\практ\портфолио\Калькулятор многочленов\WinFormsApp199\WinFormsApp199\WinFormsApp199\bin\Debug\net6.0-windows\WinFormsApp199.deps.json
+C:\Users\Дашка-кашка(-_-)\Desktop\практ\портфолио\Калькулятор многочленов\WinFormsApp199\WinFormsApp199\WinFormsApp199\bin\Debug\net6.0-windows\WinFormsApp199.runtimeconfig.json
+C:\Users\Дашка-кашка(-_-)\Desktop\практ\портфолио\Калькулятор многочленов\WinFormsApp199\WinFormsApp199\WinFormsApp199\bin\Debug\net6.0-windows\WinFormsApp199.dll
+C:\Users\Дашка-кашка(-_-)\Desktop\практ\портфолио\Калькулятор многочленов\WinFormsApp199\WinFormsApp199\WinFormsApp199\bin\Debug\net6.0-windows\WinFormsApp199.pdb
+C:\Users\Дашка-кашка(-_-)\Desktop\практ\портфолио\Калькулятор многочленов\WinFormsApp199\WinFormsApp199\WinFormsApp199\obj\Debug\net6.0-windows\WinFormsApp199.Form1.resources
+C:\Users\Дашка-кашка(-_-)\Desktop\практ\портфолио\Калькулятор многочленов\WinFormsApp199\WinFormsApp199\WinFormsApp199\obj\Debug\net6.0-windows\WinFormsApp199.csproj.GenerateResource.cache
+C:\Users\Дашка-кашка(-_-)\Desktop\практ\портфолио\Калькулятор многочленов\WinFormsApp199\WinFormsApp199\WinFormsApp199\obj\Debug\net6.0-windows\WinFormsApp199.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дашка-кашка(-_-)\Desktop\практ\портфолио\Калькулятор многочленов\WinFormsApp199\WinFormsApp199\WinFormsApp199\obj\Debug\net6.0-windows\WinFormsApp199.AssemblyInfoInputs.cache
+C:\Users\Дашка-кашка(-_-)\Desktop\практ\портфолио\Калькулятор многочленов\WinFormsApp199\WinFormsApp199\WinFormsApp199\obj\Debug\net6.0-windows\WinFormsApp199.AssemblyInfo.cs
+C:\Users\Дашка-кашка(-_-)\Desktop\практ\портфолио\Калькулятор многочленов\WinFormsApp199\WinFormsApp199\WinFormsApp199\obj\Debug\net6.0-windows\WinFormsApp199.csproj.CoreCompileInputs.cache
+C:\Users\Дашка-кашка(-_-)\Desktop\практ\портфолио\Калькулятор многочленов\WinFormsApp199\WinFormsApp199\WinFormsApp199\obj\Debug\net6.0-windows\WinFormsApp199.dll
+C:\Users\Дашка-кашка(-_-)\Desktop\практ\портфолио\Калькулятор многочленов\WinFormsApp199\WinFormsApp199\WinFormsApp199\obj\Debug\net6.0-windows\refint\WinFormsApp199.dll
+C:\Users\Дашка-кашка(-_-)\Desktop\практ\портфолио\Калькулятор многочленов\WinFormsApp199\WinFormsApp199\WinFormsApp199\obj\Debug\net6.0-windows\WinFormsApp199.pdb
+C:\Users\Дашка-кашка(-_-)\Desktop\практ\портфолио\Калькулятор многочленов\WinFormsApp199\WinFormsApp199\WinFormsApp199\obj\Debug\net6.0-windows\WinFormsApp199.genruntimeconfig.cache
+C:\Users\Дашка-кашка(-_-)\Desktop\практ\портфолио\Калькулятор многочленов\WinFormsApp199\WinFormsApp199\WinFormsApp199\obj\Debug\net6.0-windows\ref\WinFormsApp199.dll
